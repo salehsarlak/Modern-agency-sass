@@ -87,12 +87,7 @@
 <div align="center">
 
 <a href="https://salehsarlak.github.io/Modern-agency-sass/">
-  <img 
-    src="https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/baner.webp" 
-    alt="Modern Agency SaaS Preview" 
-    width="85%"
-    style="border-radius: 24px; border: 8px solid #f0f0f0; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);"
-  />
+  <img src="https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/baner.webp" alt="Modern Agency SaaS Preview" width="850" style="border-radius: 28px !important; overflow: hidden; border: 6px solid #f5f5f5; box-shadow: 0 20px 40px rgba(0,0,0,0.18);" />
 </a>
 
 <br/><br/>
