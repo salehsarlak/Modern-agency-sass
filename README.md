@@ -86,13 +86,19 @@
 
 <div align="center">
 
-| Hero Section | Services & Stats |
-|:---:|:---:|
-| ![Hero](https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/assets/main.png) | ![Services](https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/assets/main2.png) |
+<!-- Beautiful rounded frame -->
+<a href="https://salehsarlak.github.io/Modern-agency-sass/">
+  <img 
+    src="https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/assets/banner.png" 
+    alt="Modern Agency SaaS Preview" 
+    width="85%"
+    style="border-radius: 24px; border: 8px solid #f0f0f0; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);"
+  />
+</a>
 
-| Case Studies | Testimonials |
-|:---:|:---:|
-| ![Cases](https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/assets/banner.png) | ![Testimonial](https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/assets/me.png) |
+<br/><br/>
+
+<sub>👆 Click the image to open the live demo</sub>
 
 </div>
 
