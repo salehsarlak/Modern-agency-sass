@@ -86,10 +86,9 @@
 
 <div align="center">
 
-<!-- Beautiful rounded frame -->
 <a href="https://salehsarlak.github.io/Modern-agency-sass/">
   <img 
-    src="https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/baner.webp" 
+    src="https://raw.githubusercontent.com/salehsarlak/Modern-agency-sass/main/baner.webp" 
     alt="Modern Agency SaaS Preview" 
     width="85%"
     style="border-radius: 24px; border: 8px solid #f0f0f0; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);"
